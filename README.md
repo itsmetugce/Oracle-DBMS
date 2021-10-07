@@ -3,11 +3,11 @@ Database: DBMS
 
  Content:
 
-•	brief summary of what databases mean
+•	Brief summary of what databases mean
 
-•	discuss the concept of a data management system (DBMS)
+•	Discuss the concept of a data management system (DBMS)
 
-•	explain a DBMS in more detail
+•	Explain a DBMS in more detail
 
 •	SQL Statements
 
